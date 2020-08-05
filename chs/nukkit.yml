@@ -1,8 +1,8 @@
 ---
 settings:
-  language: "eng"
+  language: "chs"
   force-language: false
-  shutdown-message: "Server closed"
+  shutdown-message: "服务器已关闭"
   query-plugins: true
   deprecated-verbose: true
   async-workers: auto

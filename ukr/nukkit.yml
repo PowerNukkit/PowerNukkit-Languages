@@ -1,8 +1,8 @@
 ---
 settings:
-  language: "eng"
+  language: "ukr"
   force-language: false
-  shutdown-message: "Server closed"
+  shutdown-message: "Сервер вимкнено"
   query-plugins: true
   deprecated-verbose: true
   async-workers: auto

@@ -1,8 +1,8 @@
 ---
 settings:
-  language: "eng"
+  language: "bra"
   force-language: false
-  shutdown-message: "Server closed"
+  shutdown-message: "Servidor fechado"
   query-plugins: true
   deprecated-verbose: true
   async-workers: auto

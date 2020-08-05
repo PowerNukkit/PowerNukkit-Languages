@@ -1,6 +1,6 @@
 ---
 settings:
-  language: "eng"
+  language: "kor"
   force-language: false
   shutdown-message: "Server closed"
   query-plugins: true
